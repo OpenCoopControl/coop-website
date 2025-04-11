@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 
 export default defineConfig({
   site: 'https://OpenCoopControl.github.io',
-  base: '/occ',
+  base: '/coop-website',
   integrations: [
     starlight({
       title: 'OpenCoopControl',
@@ -13,7 +13,6 @@ export default defineConfig({
       social: [
         { 
           label: 'GitHub',
-          link: 'https://github.com/OpenCoopControl',
           href: 'https://github.com/OpenCoopControl',
           icon: 'github'
         },

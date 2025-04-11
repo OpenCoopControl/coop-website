@@ -7,9 +7,6 @@ export default defineConfig({
   output: 'static',
   trailingSlash: 'always',
   compressHTML: false,
-  experimental: {
-    renderHtml: true,
-  },
   markdown: {
     shikiConfig: {
       theme: {

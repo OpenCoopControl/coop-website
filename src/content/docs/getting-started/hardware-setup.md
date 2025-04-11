@@ -3,8 +3,6 @@ title: Hardware Setup
 description: Complete guide to setting up the hardware components for your OpenCoopControl system.
 ---
 
-# Hardware Setup for OpenCoopControl
-
 This guide covers the hardware components needed for your OpenCoopControl system and how to properly connect everything together.
 
 ## Required Components

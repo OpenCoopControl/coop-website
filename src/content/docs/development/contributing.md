@@ -3,8 +3,6 @@ title: Contributing to OpenCoopControl
 description: Guidelines for contributing to the OpenCoopControl project.
 ---
 
-# Contributing to OpenCoopControl
-
 Thank you for your interest in contributing to OpenCoopControl! This document outlines the process for contributing to the project and explains our branch structure and development workflow.
 
 ## Branch Structure

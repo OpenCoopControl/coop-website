@@ -3,8 +3,6 @@ title: Versioning Policy
 description: Versioning guidelines and practices for the OpenCoopControl project.
 ---
 
-# Versioning Policy for OpenCoopControl
-
 OpenCoopControl follows [Semantic Versioning](https://semver.org/) (SemVer) for its releases.
 
 ## Version Format

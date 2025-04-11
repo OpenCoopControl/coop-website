@@ -3,8 +3,6 @@ title: Introduction to OpenCoopControl
 description: An overview of the OpenCoopControl project for automated chicken coop management.
 ---
 
-# Introduction to OpenCoopControl
-
 OpenCoopControl is an open-source ESP32-based system for automating chicken coop management. The controller manages coop door operations, feeding schedules, and environmental monitoring through various sensors.
 
 ## What is OpenCoopControl?

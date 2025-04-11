@@ -3,8 +3,6 @@ title: API Endpoints
 description: Complete reference for all OpenCoopControl API endpoints.
 ---
 
-# OpenCoopControl API Endpoints
-
 This document provides a complete reference for all the API endpoints available in OpenCoopControl. The endpoints allow you to control and monitor your chicken coop programmatically, integrating with other smart farm systems or custom applications.
 
 ## Base URL

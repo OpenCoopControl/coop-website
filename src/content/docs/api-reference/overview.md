@@ -3,8 +3,6 @@ title: API Overview
 description: Overview of the OpenCoopControl API architecture and usage patterns.
 ---
 
-# OpenCoopControl API Overview
-
 The OpenCoopControl system provides a RESTful API that allows you to monitor and control your chicken coop remotely. This overview explains the basics of how the API works, authentication, and general principles to follow when integrating with it.
 
 ## API Architecture

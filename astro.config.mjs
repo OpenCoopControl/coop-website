@@ -2,8 +2,29 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://OpenCoopControl.github.io',
-  base: '/coop-website',
+  site: 'https://opencoopcontrol.org',
+  base: '',
+  output: 'static',
+  trailingSlash: 'always',
+  compressHTML: false,
+  experimental: {
+    renderHtml: true,
+  },
+  markdown: {
+    shikiConfig: {
+      theme: {
+        light: 'github-light',
+        dark: 'github-dark',
+      },
+      wrap: true,
+      keepHTML: false,
+      keepBackground: true,
+      wrapLines: true,
+      wrapOptions: {
+        maxLineLength: 80,
+      }
+    },
+  },
   integrations: [
     starlight({
       title: 'OpenCoopControl',
